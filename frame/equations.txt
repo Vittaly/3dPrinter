@@ -1,0 +1,3 @@
+﻿"sheet_thickness"= 6
+"bottom_line"= 60
+"width_space"= 500
